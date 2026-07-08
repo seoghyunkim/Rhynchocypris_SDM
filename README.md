@@ -1,7 +1,21 @@
-## Description of the data and file structure ##
+================
+
+-   [Article information](#article-information)
+-   [File descriptions](#file-descriptions)
+-   [License](#license)
+-   [Session information](#session-information)
 
 
-## The dataset includes 9 files: 3 R code files for each Rhynchocypris species, and 6 GeoPackage files.
+# Article information
+Title: Divergent climate responses among three closely related headwater fishes within the genus Rhynchocypris in South Korea
+
+Author: Jeongwon Lee, Hyun-Gi Jeong, Seoghyun Kim
+
+Corresponding author email: seoghyunkim@kangwon.ac.kr
+
+
+# Description of the data and file structure
+- The dataset includes 9 files: 3 R code files for each Rhynchocypris species, and 6 GeoPackage files.
 
 1. Files
 The GeoPackage files consist of stream network file (stream_network_Rhynchocypris.gpkg), 2 basin boundary files (WKMBBSN.gpkg and WKMSBSN.gpkg), and occurrence segment files for the three species (R.oxycephalus_occ.gpkg, R.steindachneri_occ.gpkg, and R.kumgangensis_occ.gpkg).
